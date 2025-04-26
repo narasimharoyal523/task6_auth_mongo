@@ -1,0 +1,1 @@
+mongo "mongodb://ac-qqc0atr-shard-00-00.y9puk7s.mongodb.net:27017,ac-qqc0atr-shard-00-01.y9puk7s.mongodb.net:27017,ac-qqc0atr-shard-00-02.y9puk7s.mongodb.net:27017/?replicaSet=atlas-x3lrwi-shard-0" --ssl --authenticationDatabase admin --username task6_auth_mongo --password <task6_auth_mongo>
