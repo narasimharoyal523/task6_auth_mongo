@@ -52,23 +52,13 @@ Copy code
 1. Ensure **MongoDB is running**:
    ```bash
    mongod
-Run the server:
-
-bash
-Copy code
-node server.js
-Visit in browser:
-
-arduino
-Copy code
-http://localhost:3000/
+2. Run the server:
+   ```bash
+   node server.js
+3. Visit in browser:
+   ```arduino
+   http://localhost:3000/
 🔑 Example Flow
 Register at /register
 
 Login at /login → get JWT token
-
-Use Postman to access /profile with:
-
-pgsql
-Copy code
-Header: Authorization: <your_token>
