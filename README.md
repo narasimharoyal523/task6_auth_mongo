@@ -24,9 +24,6 @@
 
 task6_auth_mongo/ ├── views/ │ ├── register.ejs │ └── login.ejs ├── server.js ├── package.json
 
-yaml
-Copy code
-
 ---
 
 ## 🎯 Features
